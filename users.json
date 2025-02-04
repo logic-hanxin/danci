@@ -1,0 +1,6 @@
+[
+    {
+        "username": "testuser",
+        "password_hash": "pbkdf2:sha256:1000000$5cNwodlN$960c27f7e080a1971972d1c53cc59d34cb4c97bf20927f0a86e9f675e0887af5" 
+    }
+]
