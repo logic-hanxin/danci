@@ -1,4 +1,4 @@
-Unit	1 Can you play the guitar?
+Unit1	Can you play the guitar?
 guitar	n.吉他
 sing	v.唱;唱歌
 swim	v.游泳
@@ -330,7 +330,6 @@ enjoy	v.享受;喜爱
 enjoy reading	喜欢阅读
 easily	adv.容易地
 money	n.钱
-新人教版七年级下册英语课本单词表：9-12单元
 Unit9	What does he look like?
 curly	adj.卷曲的
 straight	adj.直的

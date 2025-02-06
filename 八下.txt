@@ -1,3 +1,4 @@
+Unit 1
 matter	问题；事情
 What's the matter?	怎么了？出什么事了？
 sore	疼痛的；酸痛的
@@ -60,12 +61,7 @@ spirit	勇气；意志
 death	死；死亡
 give up	放弃
 nurse	护士
-Judy	朱迪（女名）
-Nancy	南希（女名）
-Mandy	曼迪（女名）
-Aron Ralston	阿伦•罗尔斯顿
-Utah	尤他州（美国）
-
+Unit 2
 clean up	打扫（或清除）干净
 cheer	欢呼；喝彩
 cheer up	（使）变得更高兴；振奋起来
@@ -110,7 +106,7 @@ open	开；打开
 door	门
 carry	拿；提；扛
 train	训练；培训
-
+Unit 3
 rubbish	垃圾；废弃物
 take out the rubbish	倒垃圾
 fold	折叠；对折
@@ -148,7 +144,7 @@ independent	独立的；自主的
 fair	合理的；公正的
 unfair	不合理的；不公正的
 Sandy	桑迪
-
+Unit 4
 allow	允许；准许
 wrong	有毛病的；错误的
 What's wrong	哪儿不舒服
@@ -195,9 +191,7 @@ cause	造成；引起
 usual	通常的；寻常的
 in one's opinion	依……看
 perhaps	可能；大概；也许
-Cathy	凯茜（女名）
-Taylor	泰勒（姓）
-
+Unit 5
 rainstorm	暴风雨
 alarm	闹钟
 go off	（闹钟）发出响声
@@ -240,9 +234,7 @@ date	日期；日子
 tower	塔；塔楼
 at first	首先；最初
 truth	实情；事实
-Allen	艾伦（姓）
-Martin Luther King	马丁•路德•金
-
+Unit 6
 shoot	射击；发射
 stone	石头
 weak	虚弱的；无力的
@@ -288,14 +280,7 @@ ground	地；地面
 lead	带路；领路
 voice	声音
 brave	勇敢的；无畏的
-Claudia	克劳迪娅（女名）
-Journey to the West	《西游记》
-the Monkey King	美猴王
-Sleeping Beauty	《睡美人》
-Cinderella	《灰姑娘》
-Little Red Riding Hood	《小红帽》
-Hansel	《韩赛尔与格雷特》（《糖果屋》）
-
+Unit 7
 square	平方；正方形
 meter	米；公尺
 deep	深的；纵深的
@@ -338,7 +323,7 @@ endangered	濒危的
 research	研究；调查
 keeper	饲养员；保管人
 awake	醒着
-
+Unit 8
 treasure	珠宝；财富
 island	岛
 full of	满是……的；（有）大量的；（有）丰富的
@@ -379,20 +364,7 @@ million	一百万
 record	唱片；记录；录制；录（音）
 introduce	介绍；引见
 line	行；排
-Alex	亚历克斯（男名）
-Garth Brooks	加思•布鲁克斯
-the Beatles	披头士乐队（英国）
-Treasure Island	《金银岛》
-Alice in Wonderland	《爱丽丝梦游仙境》
-Little Women	《小妇人》
-Oliver Twist	《雾都孤儿》
-Robinson Crusoe	《鲁滨逊漂流记》
-Tom Sawyer	《汤姆•索亚历险记》
-Harry Potter	《哈利•波特》
-Nashville	纳什维尔（美国田纳西州府）
-Tennessee	田纳西州（美国）
-Country Music Hall of Fame	乡村音乐名人堂博物馆
-
+Unit 9
 amusement	娱乐；游戏
 amusement park	游乐场
 somewhere	在某处；到某处
@@ -445,7 +417,7 @@ the Bird's Nest	鸟巢
 Singapore	新加坡
 Southeast Asia	东南亚
 Night Safari	夜间动物园
-
+Unit 10
 yard	院子
 yard sale	庭院拍卖会
 sweet	甜蜜的；甜的；含糖的
