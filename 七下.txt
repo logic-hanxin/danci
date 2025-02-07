@@ -302,7 +302,7 @@ street	n.大街
 pay	v.付费
 pay phone	付费电话
 near	prep.在……附近
-acros	adv.过;穿过
+acroos	adv.过;穿过
 across from	在……对面
 front	n.前面
 in front of	在……前面
@@ -477,9 +477,9 @@ shout	v.呼叫,喊叫
 shout at…	冲……大声叫嚷
 woof	interg(狗叫声)汪汪
 language	n.语言
-fiy	v.飞
+fly	v.飞
 kite	n.风筝
-fiy	a kite放风筝
+fly	a kite放风筝
 high	adj.&adv高的(地)
 high school	中学
 ago	adv.以前
@@ -488,7 +488,7 @@ tent	n.帐篷
 put	up搭起,举起
 moon	n.月亮
 surprise	n.&v.惊奇,惊讶
-get a surpris	吃惊
+get a surprised	吃惊
 snake	n.蛇
 scared	adj.惊慌的
 move	v.移动
