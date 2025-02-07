@@ -302,7 +302,7 @@ street	n.大街
 pay	v.付费
 pay phone	付费电话
 near	prep.在……附近
-acroos	adv.过;穿过
+across	adv.过;穿过
 across from	在……对面
 front	n.前面
 in front of	在……前面
