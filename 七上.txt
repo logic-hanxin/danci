@@ -1,0 +1,363 @@
+Unit1
+good    adj 好的
+morning    n 早晨;上午
+hi    interj (用于打招呼)嗨;喂
+hello    interj 你好;喂
+afternoon    n 下午
+evening    n 晚上;傍晚
+how    adv 怎样;如何
+are    v 是
+you    pron 你;你们
+I    pron 我
+am    v 是
+fine    adj 健康的;美好的
+thanks    interj&n 感谢;
+OK    interj&adv 好;可以
+Unit2
+what    pron&adj 什么
+is    v 是
+this    pron 这;这个
+in    prep (表示使用语言材料等)用;以
+English    n 英语 adj 英格兰的;英语的
+map    n 地图
+cup    n 杯子
+ruler    n 尺;直尺
+pen    n 笔;钢笔
+orange    n 橙子
+jacket    n 夹克衫;短上衣
+key    n 钥匙
+quilt    n 被子;床罩
+it    pron 它
+a    art (用于单数可数名词前)一(人事物)
+that    pron 那;那个
+spell    v 用字母拼;拼写
+please    interj (用于客气地请求或吩咐)请
+Unit3
+color    n (=colour) 颜色
+red    adj&n 红色(的)
+yellow    adj&n 黄色(的)
+green    adj&n 绿色(的)
+blue    adj&n 蓝色(的)
+black    adj&n 黑色(的)
+white    adj&n 白色(的)
+purple    adj&n 紫色(的)
+brown    adj&n 棕色(的);褐色(的)
+the    art 指已提到或易领会到的人或事
+now    adv 现在;目前
+see    v 理解;明白
+can    modal v 能;会
+say    v 说;讲
+my    pron 我的
+Unit4
+name    n 名字;名称
+nice    adj 令人愉快的;宜人的
+to    常用于原形动词之前，该动词为不定式
+meet    v 遇见;相逢
+too    adv 也;又;太
+your    pron 你的;你们的
+Ms    (于女子的姓名前，不指明婚否)女士
+his    pron 他的
+and    conj 和;又;而
+her    pron, 她的
+yes    interj 是的;可以
+she    pron 她
+he    pron 他
+no    interj 不;没有;不是
+not    adv 不;没有
+zero    num 零
+one    num 一
+two    num 二
+three    num 三
+four    num 四
+five    num 五
+six    num 六
+seven    num 七
+eight    num 八
+nine    num 九
+telephone    n 电话;电话机
+number    n 号码;数字
+phone    n 电话;电话机
+first    adj 第一
+last    adj 最后的;末尾的
+friend    n 朋友
+China    n 中国
+middle    adj 中间的;中间
+school    n 学校
+Unit5
+sister    n 姐;妹
+mother    n 母亲;妈妈
+father    n 父亲;爸爸
+parent    n 父(母)亲
+brother    n 兄;弟
+grandmother    n(外)
+grandfather    n (外)祖父;爷爷;
+grandparent    n祖父(母);
+family    n 家;家庭
+those    pron 那些
+who    pron 谁;什么人
+oh    interj 哦;啊
+these    pron 这些
+they    pron 他(她它)们
+well    interj 嗯;好吧
+have    v 经受;经历
+son    n 儿子
+cousin    n 堂兄(弟姐妹);表兄
+grandpa    n (外)祖父;爷爷;外公
+mom    n (=mum)妈妈
+aunt    n 姑母;姨母;伯母;婶母;舅母
+grandma    n(外)祖母;奶奶;外婆;
+dad    n 爸爸
+uncle    n 舅父;叔父;伯父;姑父;舅父
+daughter    n 女儿
+here    adv (用以介绍人或物)这就是;在这里
+photo    n 照片
+of    prep 属于(人或物);关于(人或物)
+next    adj&n 下一个(的);接下来(的)
+picture    n 照片;图画
+girl    n 女孩
+dog    n 狗
+Unit6
+pencil    n 铅笔
+book    n 书
+eraser    n 橡皮
+box    n 箱;盒
+schoolbag    n 书包
+dictionary    n 词典;字典
+his    pron 他的
+mine    pron 我的
+hers    pron 她的
+excuse    v 原谅;宽恕
+me    pron (I的宾格)我
+thank    v 感谢;谢谢
+teacher    n 老师;教师
+about    prep 关于
+yours    pron 你的;你们的
+for    prep 为了;给;对
+help    v&n 帮助;援助
+welcome    adj 受欢迎的
+baseball    n 棒球
+watch    n 表;手表
+computer    n 计算机;电脑
+game    n 游戏;运动;比赛
+card    n 卡片
+ID card    n 学生卡;身份证
+notebook    n 笔记本
+ring    n 戒指
+bag    n 袋;包
+library    n 图书馆
+ask    v 请求;要求;询问
+find    v (过去分词 found)找到;发现
+some    adj 一些;某些
+classroom    n 教室
+e-mail    n (=email)电子邮件
+call    v (给)打电话
+lost    v (动词lose的过去式)遗失;丢失
+must    modal v 必须
+set    n 一套;一副;一组
+Unit7
+where    adv 在哪里;到哪里
+table    n 桌子
+bed    n 床
+bookcase    n 书架;书柜
+sofa    n 沙发
+chair    n 椅子
+on    prep 在上
+under    prep 在下
+come    v 来;来到
+desk    n 书桌
+think    n 认为;想;思考
+room    n 房间
+their    pron 他(她它)们的
+hat    n 帽子
+head    n 头
+yeah    interj 是的;对
+know    v 知道;了解
+radio    n 收音机;无线电广播
+clock    n 时钟
+tape    n 磁带;录音带;录像带
+player    n播放机
+model    n 模型
+plane    n 飞机
+tidy    adj 整洁的;井井有条的
+our    pron 我们的
+everywhere    adv 处处;到处;各地
+always    adv 总是
+Unit8
+do    aux v &v 用于否定句疑问句;做;干
+have    v 有
+tennis    n 网球
+ball    n 球
+ping-pong    n 乒乓球
+bat    n 球棒;球拍
+soccer    n (英式)足球
+volleyball    n 排球
+basketball    n 篮球
+hey    interj 嘿;喂
+let    v 允许;让
+us    pron (we的宾格)我们
+go    v 去;走
+we    pron 我们
+late    adj 迟到
+has    v (have的第三人称单数形式)有
+get    v 去取(或带来);得到
+sound    v 听起来好像
+interesting    adj 有趣的
+boring    adj 没趣的;令人厌倦的
+fun    adj 有趣的;使人快乐的 n乐趣;快乐
+difficult    adj 困难的
+relaxing    adj 轻松的;令人放松的
+watch    v 注视;观看
+TV    n (=television) 电视;电视机
+same    adj 相同的
+love    v&n 爱;喜爱
+with    prep 和在一起;带有;使用
+sport    n 体育运动
+them    pron (they的宾格)他(她它)们
+only    adv 只;仅
+like    v 喜欢;喜爱
+easy    adj 容易的;不费力的
+after    prep 在以后
+class    n 班级;课
+classmate    n 同班同学
+Unit9
+banana    n 香蕉
+hamburger    n 汉堡包
+tomato    n 西红柿
+ice-cream    n 冰激凌
+salad    n 沙拉
+strawberry    n 草莓
+pear    n 梨
+milk    n 牛奶
+bread    n 面包
+birthday    n 生日
+dinner    n (中午或晚上吃的)正餐
+week    n 周;星期
+food    n 食物
+sure    adv 当然;肯定;一定
+burger    n (=hamburger)汉堡包
+vegetable    n 蔬菜
+fruit    n 水果
+right    adj 正确的;适当的
+apple    n 苹果
+then    adv 那么
+egg    n 蛋;鸡蛋
+carrot    n 胡萝卜
+rice    n 大米;米饭
+chicken    n 鸡肉
+breakfast    n 早餐;早饭
+lunch    n 午餐
+star    n 明星;星星
+eat    v 吃
+habit    n 习惯
+healthy    adj 健康的
+really    adv 真正地
+question    n 问题
+want    v 需要;想要
+be    v 变成
+fat    adj 肥的;肥胖的
+Unit10
+much    pron&adj 许多;大量;多少
+sock    n 短袜
+T-shirt    n T恤衫
+shorts    n (pl) 短裤
+sweater    n 毛衣
+trousers    n (pl) 裤子
+shoe    n 鞋
+skirt    n 裙子
+dollar    n 元(美国等国的货币符号为$)
+big    adj 大的;大号的
+small    adj 小的;小号的
+short    adj 短的;矮的
+long    adj 长的
+woman    n 女子
+Can I help you?    我能帮您吗?
+need    v 需要
+look    v 看;看上去
+pair    n 一双;一对
+take    v 买下;拿;取
+Here you are    给你。
+ten    num 十
+eleven    num 十一
+twelve    num 十二
+thirteen    num 十三
+fifteen    num 十五
+eighteen    num 十八
+twenty    num 二十
+thirty    num 三十
+Mr    n 先生
+clothes    n (pl) 衣服;服装
+store    n 商店
+buy    v 购买;买
+sale    n 特价销售;出售
+sell    v 出售;销售;卖
+all    adj 所有的;全部的
+very    adv 很;非常
+price    n 价格
+boy    n 男孩
+Unit11
+when    adv (疑问副词)什么时候
+month    n 月;月份
+January    n 一月
+February    n 二月
+March    n 三月
+April    n 四月
+May    n 五月
+June    n 六月
+July    n 七月
+August    n 八月
+September    n 九月
+October    n 十月
+November    n 十一月
+December    n 十二月
+happy    adj 愉快的;高兴的
+old    adj 年老的;旧的
+party    n 聚会;晚会
+first    num 第一
+second    num 第二
+third    num 第三
+fifth    num 第五
+eighth    num 第八
+ninth    num 第九
+twelfth    num 第十二
+twentieth    num 第二十
+test    n 测验;检查
+trip    n 旅游;旅行
+art    n 艺术;美术
+festival    n (音乐戏剧等的)节;节日
+dear    adj 亲爱的
+student    n 学生
+thing    n 东西;事情
+term    n 学期
+busy    adj 忙碌的;无暇的
+time    n 时间
+there    adv (在)那里
+Unit12
+favorite    adj&n特别喜爱的(人或事物)
+subject    n 学科;科目
+science    n 科学
+PE    n (=physical education)体育
+music    n 音乐;乐曲
+math    n 数学
+Chinese    n 语文;汉语中国的
+geography    n 地理(学)
+history    n 历史
+why    adv 为什么
+because    conj 因为
+Monday    n 星期一
+Friday    n 星期五
+Saturday    n 星期六
+free    adj 空闲的
+cool    adj 妙极的;酷的
+Tuesday    n 星期二
+Wednesday    n 星期三
+Thursday    n 星期四
+Sunday    n 星期日
+AM    n (=am)上午
+PM    n (=pm) 下午;午后
+useful    adj    有用的;有益的
+from    prep    (表示开始的时间)从开始
+from to    prep    从...到
+Mrs    (女子的姓氏或姓名前)太太;夫人
+finish    v    完成;做好
+lesson    n    课;一节课
+hour    n    小时
