@@ -1,502 +1,503 @@
-Unit1	Can you play the guitar?
-guitar	n.吉他
-sing	v.唱;唱歌
-swim	v.游泳
-dance	v.跳舞;舞蹈
-draw	v.画
-chess	n.国际象棋
+
+Unit1	第一单元
+guitar	吉他
+sing	唱;唱歌
+swim	游泳
+dance	跳舞;舞蹈
+draw	画
+chess	国际象棋
 play chess	下国际象棋
-speak	v.说;说话
-speak English		说英语
-join	v.参加;加入
-club	n.俱乐部;社团
+speak	说;说话
+speak English	说英语
+join	参加;加入
+club	俱乐部;社团
 be good at…	擅长于……
-tell	v. n讲述;告诉
-story	n故事;小说
-write	v.写作,写字
-show	n.演出;表演 v.展示;
-or	conj.或者
-talk	v. 说话;谈话
+tell	n讲述;告诉
+story	事;小说
+write	写作;写字
+show	演出;表演;展示
+or	或者
+talk	说话;谈话
 talk to …	跟……说
-kungfu	n.(中国)功夫
-drum	n.鼓
+kungfu	功夫
+drum	鼓
 play the drums	敲鼓
-piano	n.钢琴
+piano	钢琴
 play the piano	弹钢琴
-violin	n.小提琴
+violin	小提琴
 play the violin	拉小提琴
-also	adv 也;而且
-people	n人;人们
-home	n 家,活动本部.adv到家;在家
-be	good with… 善于应付……的;对……有办法
-make	v.使成为;制造
+also	也;而且
+people	人们
+home	家;活动本部;到家;在家
+be good with	善于应付的;对 有办法
+make	使成为;制造
 make friends	结交朋友
-today	adv.在今天
-help	(sb) with sth	在某方面帮助(某人)
-center	n(=centre)中心,中央
-weekend.	n.周末
-on the weekend. 	(在)周末
-teach	v教,讲授
-musician	n.音乐家
-Lisa	莉萨(女名)
-Jill	吉尔(女名)
-Peter	彼得(男名)
-Unit2	What time do you go to school
-up	adv 向上
+today	在今天
+help	with sth	在某方面帮助
+center	中心,中央
+weekend		周末
+on the weekend	周末
+teach	讲授
+musician	音乐家
+Unit2	第二单元
+up	向上
 get up	起床;站起
-dress	v.穿衣服 n.连衣裙
-get	dressed 穿上衣服
-brush	v.刷刷净 n.刷子
-tooth	n.(pl. teeth)牙齿
-shower	n.v淋浴;淋浴器(间)
+dress	穿衣服;连衣裙
+get dressed	穿上衣服
+brush	刷;刷净;刷子
+tooth	牙齿
+shower	淋浴;淋浴器
 take a shower	洗淋浴
-usually	adv.通常地;一般地
-forty	num.四十
-Wow	intery.(表示惊奇或敬佩)哇;呀
-never	adv从不;绝不
-early	adv. adj早(的)
-fifty	num.五十
-job	n.工作;职业
-work	n.& v.工作
-station	n.电视台;车站
-radio	station 广播电台
-o'clock	adv.(表示整点)…点钟
-night	n.晚上;夜晚
-funny	adj奇怪的;滑稽好笑的
-exercise	v.n锻炼;练习
-on weekends.		(在)周末
-best	adj.& adv.最好的(地)
-half	n.一半,半数
-past	prep.晚于;过(时间)adj.过去的
-quarter	n.一刻钟;四分之一
-homework	n.家庭作业
-do (one’s) homework		做作业
-run	v 跑;奔
-clean	v打扫;弄干净;adj干净的
-walk		n.&v.行走;步行
+usually	通常地;一般地
+forty	四十
+Wow	哇;呀
+never	不;绝不
+early	早
+fifty	五十
+job	工作;职业
+work	工作
+station	电视台;车站
+radio station	广播电台
+o'clock	点钟
+night	晚上;夜晚
+funny	怪的;滑稽好笑的
+exercise	锻炼;练习
+on weekends	周末
+best	最好的
+half	一半,半数
+past	晚于;过;过去的
+quarter	一刻钟;四分之一
+homework	家庭作业
+do one's homework	做作业
+run	跑;奔
+clean	扫;弄干净;干净的
+walk	行走;步行
 take a walk	散步走一走
-quickly	adv很快地
-either	adv或者;也(用在否定词组后)
-Either…or	……要么……要么……;或者……或者……
-lot	pron. 大量;许多
+quickly	快地
+either	者;也
+Either or	要么 要么;或者 或者
+lot	大量;许多
 lots of	大量;许多
-sometimes	adv.有时
-taste	v.有…的味道;品尝n.味道;滋味
-Life	n.生活,生命
-Unit3	How do you get to school
-train	n.火车
-bus	n.公交车
-subway	n.地铁
+sometimes	有时
+taste	有 的味道;品尝;味道;滋味
+Life	生活,生命
+Unit3	第三单元
+train	火车
+bus	公交车
+subway	地铁
 take the subway	乘地铁
-ride	v骑 n旅行
-bike	n.自行车a
+ride	旅行
+bike	自行车
 ride a bike	骑自行车
-sixty	num.六十
-seventy	num.七十
-eighty	num.八十
-ninety	num.九十
-hundred	num.一百
-minute	n.分钟
-far	adv.&adj远;远的
-kilometer	n.公里
-new	adj.新的;刚出现的
-every	adj.每一;每个
+sixty	六十
+seventy	七十
+eighty	八十
+ninety	九十
+hundred	一百
+minute	分钟
+far	远;远的
+kilometer	公里
+new	新的;刚出现的
+every	每一;每个
 every day	每天
-by	prep.(表示方式)乘(交通工具)
+by	乘
 by bike	骑自行车
-drive	v.开车
-car	n.小汽车;轿车
-live	v.居住;生活
-stop	n.车站;停止
-think	of 认为
-cross	v.横过;越过
-river	n.河;江
-many	adj.&pron.许多
-village	n.村庄;村镇
-between	prep.介于…之间
-between…and…	在……和……之间
-bridge	n.桥
-boat	n.小船
-Ropeway	n.索道
-year	n.年;岁
-afraid	adj.害怕;惧怕
-like	prep.像;怎么样
-leave	v.离开
-dream	n.梦想;睡梦 v.做梦
-true	adj.真的;符合事实的
+drive	开车
+car	小汽车;轿车
+live	居住;生活
+stop	车站;停止
+think of	认为
+cross	横过;越过
+river	河;江
+many	许多
+village	村庄;村镇
+between	介于…之间
+between and	在……和……之间
+bridge	桥
+boat	小船
+Ropeway	索道
+year	年;岁
+afraid	害怕;惧怕
+like	像;怎么样
+leave	离开
+dream	梦想;睡梦;做梦
+true	真的;符合事实的
 come true	实现;成为现实
-Unit4	Don’t eat in class
-rule	n.规则;规章
-arrive	v.到达
-(be) on time	准时
-hallway	n.走廊;过道
-hall	n.大厅;礼堂
-dining	hall 餐厅
-listen	v.听;倾听
-listen to…	听……
-fight	v. &n.打架;战斗
-sorry	adj.抱歉的;难过的;惋惜的
-outside	adv在外面adj 外面的
-wear	v.穿;戴
-important	adj.重要的
-bring	v.带来;取来
-uniform	n.校服;制服
-quiet	adj安静的
-out	adv.外出
-go out	外出(娱乐)
-practice	v.& n.练习
-dish	n.碟;盘
+Unit4	第四单元
+rule	规则;规章
+arrive	到达
+be on time	准时
+hallway	走廊;过道
+hall	大厅;礼堂
+dining hall	餐厅
+listen	听;倾听
+listen to	听
+fight	打架;战斗
+sorry	抱歉的;难过的;惋惜的
+outside	外面;外面的
+wear	穿;戴
+important	重要的
+bring	带来;取来
+uniform	校服;制服
+quiet	静的
+out	外出
+go out	外出
+practice	练习
+dish	碟;盘
 do the dishes	清洗餐具
-before	prep. conj在… 以前 adv以前
+before	在 以前;以前
 make (one's) bed	铺床
-dirty	adj.脏的
-kitchen	n.厨房
-more	adj. pron.更多的
-noisy	adj.吵闹的
-relax	v.放松;休息
-read	v.读;阅读
-terrible	adj.非常讨厌的;可怕的
-feel	v.感受;觉的
-strict	adj.严格的;严厉的
-be strict (with sb)	(对某人)要求严格
-remember	v.记住;记起
-follow	v.遵循;跟随
+dirty	脏的
+kitchen	厨房
+more	更多的
+noisy	吵闹的
+relax	放松;休息
+read	读;阅读
+terrible	非常讨厌的;可怕的
+feel	感受;觉的
+strict	严格的;严厉的
+be strict (with sb)	要求严格
+remember	记住;记起
+follow	遵循;跟随
 follow the rules	遵守规则
-luck	n.幸运;运气
-keep	v.保持;保留
-hair	n.头发;毛发
-learn	v. 学习;学会
-Unit5	What do you like pandas
-panda	n. 熊猫
-zoo	n.动物园
-tiger	n.老虎
-elephant	n.大象
-koala	n. 树袋熊
-lion	n.狮子
-giraffe	n. 长颈鹿
-animal	n .动物
-cute	adj.可爱的;机灵的
-lazy	adj.懒散的;懒惰的
-smart	adj 聪明的
-beautiful	adj 美丽的;美好的
-scary	adj吓人的;恐怖的
-kind	n 种类
+luck	幸运;运气
+keep	保持;保留
+hair	头发;毛发
+learn	学习;学会
+Unit5	第五单元
+panda	熊猫
+zoo	动物园
+tiger	老虎
+elephant	大象
+koala	树袋熊
+lion	狮子
+giraffe	长颈鹿
+animal	.动物
+cute	可爱的;机灵的
+lazy	懒散的;懒惰的
+smart	聪明的
+beautiful	美丽的;美好的
+scary	人的;恐怖的
+kind	种类
 kind of	稍微;有点儿
-Australia	n. 澳大利亚
-south	adj 南方的n 南;南方
-Africa	n.非洲
+Australia	澳大利亚
+south	南方的;南;南方
+Africa	非洲
 South Africa	南非
-pet	n. 宠物
-leg	n. 腿
-cat	n. 猫
-sleep	n睡觉
-friendly	adj .友好的
-shy	adj. 羞怯的;腼腆的
-save	v .救;救助
-symbol	n.象征
-flag	n. 旗;旗帜
-forget	v.忘记;遗忘
+pet	宠物
+leg	腿
+cat	猫
+sleep	觉
+friendly	.友好的
+shy	羞怯的;腼腆的
+save	救;救助
+symbol	象征
+flag	旗;旗帜
+forget	忘记;遗忘
 get lost	迷路
-place	n .地点;位置
-water	n.水
-danger	n. 危险
-be in (great) danger	处于(极大)危险之中
-cut	v .砍;切
-down	adv.(坐、躺、倒)下 prep.向下;沿着
+place	地点;位置
+water	水
+danger	危险
+be in (great) danger	处于危险之中
+cut	砍;切
+down	下;向下;沿着
 cut down	砍倒
-tree	n. 树
-kill	v.杀死;弄死
-ivory	n.象牙
-over	prep .超过;多于;在… 上方
+tree	树
+kill	杀死;弄死
+ivory	象牙
+over	超过;多于;在…;上方
 (be) made of	由……制成的
-Thailand	n.泰国
-Thai	n.泰国(人的);泰语(的)
-Unit6	I’m watching TV
-newspaper	n .报纸
+Thailand	泰国
+Thai	泰国;泰语
+
+Unit6	第六单元
+newspaper	报纸
 read a newspaper	看报纸
-use	v.使用;运用
-Soup	n.汤
+use	使用;运用
+Soup	汤
 make soup	做汤
-wash	v.洗
-movie	n.电影
+wash	洗
+movie	电影
 go to movies	看电影
-just	adv .只是;恰好
-eat	out 出去吃饭
-house	n.房子
-drink	v..喝n.饮料
-tea	n.茶;茶叶
+just	只是;恰好
+eat out	出去吃饭
+house	房子
+drink	喝饮料
+tea	茶;茶叶
 drink tea	喝茶
-tomorrow	adv在明天 n.明天;未来
-pool	n.游泳池;水池
-shop	v. 购物 n.商店
-supermarket	n. 超市
-man	n男人;人
-race	n.竞赛
-host	n.主人;东道主
-study	v. n学习;研究
-state	n 洲
+tomorrow	明天;明天;未来
+pool	游泳池;水池
+shop	购物;商店
+supermarket	超市
+man	人;人
+race	竞赛
+host	主人;东道主
+study	学习;研究
+state	洲
 the United States	美国;美利坚合众国
-American	adj美国的;美洲的n美国人;美洲人
-dragon	n.龙
+American	国的;美洲的;美国人;美洲人
+dragon	龙
 Dragon Boat Festival	端午节
-any	adj.任何的.任一的pron.任何;任一
-other	adj另外的;其他的 pron.另外的人(或物)
-young	adj幼小的,年轻的
-children	n 儿童
-miss	v.怀念. 思念
-wish	v 希望
-delicious	.adj 可口的.美味的
-still	.adv. 还.仍然
-living	room 客厅
-Unit7	It's raining!
-rain	v.下雨n.雨水
-windy	adj.多风的
-cloudy	adj多云的
-sunny	adj晴朗的
-snow	v.下雪;雪Snow
-weather	n.天气
-cook	v.做饭
-bad	adj坏的;糟的
-park	n.公园
-message	n.信息;消息
+any	任何的;任一的;任何;任一
+other	外的;其他的;另外的人
+young	小的;年轻的
+children	儿童
+miss	怀念;思念
+wish	希望
+delicious	可口的.美味的
+still	还;仍然
+living room	客厅
+
+Unit7	第七单元!
+rain	下雨；雨水
+windy	多风的
+cloudy	云的
+sunny	朗的
+snow	下雪;雪
+weather	天气
+cook	做饭
+bad	坏的;糟的
+park	公园
+message	信息;消息
 take a message	捎个口信;传话
-him	pron.他(he的宾格)
-could	v.能;可以
-back	adj.回来;回原处
+him	他
+could	能;可以
+back	回来;回原处
 call (sb) back	回电话
-problem	n.困难;难题
-again	adj.再一次;又一次
-dry	adj.干燥的
-cold	adj寒冷的;冷的
-hot	adj热的
-warm	adj温暖的
-visit	v.拜访;参观
-Canada	n.加拿大
-summer	n.夏天;夏季
-sit	v.坐
-juice	n.果汁;饮料
-soon	adv.不久;很快
-vacation	n.假期
+problem	困难;难题
+again	再一次;又一次
+dry	干燥的
+cold	冷的;冷的
+hot	的
+warm	暖的
+visit	拜访;参观
+Canada	加拿大
+summer	夏天;夏季
+sit	坐
+juice	果汁;饮料
+soon	不久;很快
+vacation	假期
 on (a) vacation	度假
-hard	adv.努力地;困难的
-Europe	n.欧洲
-mountain	n.高山
-country	n.国;国家
-skate	v.滑冰
-snowy	adj.下雪的
-winter	n.冬天;冬季
-Russian	adj.俄罗斯的;俄罗斯人;俄语
-snowman	n.雪人
-rainy	adj.阴雨的;多雨的
-Unit8	Is there a post office near here?
-post	n.邮政
-office	n. 办公室
+hard	努力地;困难的
+Europe	欧洲
+mountain	高山
+country	国;国家
+skate	滑冰
+snowy	下雪的
+winter	冬天;冬季
+Russian	俄罗斯的;俄罗斯人;俄语
+snowman	雪人
+rainy	阴雨的;多雨的
+Unit8	第八单元
+post	邮政
+office	办公室
 post office	邮局
-police	n.警察
+police	警察
 police station	警察局
-hotel	n.旅店;酒店
-restaurant	n.餐馆
-bank	n.银行
-hospital	n.医院
-street	n.大街
-pay	v.付费
+hotel	旅店;酒店
+restaurant	餐馆
+bank	银行
+hospital	医院
+street	大街
+pay	付费
 pay phone	付费电话
-near	prep.在……附近
-across	adv.过;穿过
-across from	在……对面
-front	n.前面
-in front of	在……前面
-behind	prep.在……后面
-town	n.镇;市镇
-around	adv.&prep.到处;大约
-north	n.北;北方adj.北方的
-along	prep.沿着
-go along	沿着(这条街)走
-turn	v.转向;翻
-right	adv.向右边;n.右边
-left	adv.向左边n.左边
+near	在 附近
+acros	过;穿过
+across from	在 对面
+front	前面
+in front of	在 前面
+behind	在 后面
+town	镇;市镇
+around	 到处;大约
+north	北;北方;北方的
+along	沿着
+go along	沿着走
+turn	转向;翻
+right	向右边;右边
+left	向左边;左边
 turn right |/left	向右、左转
-crossing	n.十字路口
-neighborhood	n.街区;街坊
-spend	v.花(时间、钱等)
+crossing	十字路口
+neighborhood	街区;街坊
+spend	花
 spend time	花时间
-climb	v.爬
-road	n.路
-often	adv.时常;常常
-air	n.空气
-sunshine	n.阳光
-free	adj免费的
-enjoy	v.享受;喜爱
+climb	爬
+road	路
+often	时常;常常
+air	空气
+sunshine	阳光
+free	费的
+enjoy	享受;喜爱
 enjoy reading	喜欢阅读
-easily	adv.容易地
-money	n.钱
-Unit9	What does he look like?
-curly	adj.卷曲的
-straight	adj.直的
-tall	adj.高的
-medium	adj. 中等的
-height	n.身高;高度
+easily	容易地
+money	钱
+Unit9	第九单元
+curly	卷曲的
+straight	直的
+tall	高的
+medium	中等的
+height	身高;高度
 of medium height	中等身高
-thin	adj.瘦的
-heavy	adj.重的
-build	n.身材
+thin	瘦的
+heavy	重的
+build	身材
 of medium build	中等身材
-tonight	adv.&n.今夜
-little	adj.小的
-a little	 一点,少量
-cinema	n.电影院
-glasses	n.眼镜
-later	adj.以后
-handsome	adj.英俊的
-actor	n.演员
-actress	n.女演员
-person	n.人
-nose	n.鼻子
-blonde	adj.金黄色的
-mouth	n.嘴
-round	adj.圆形的
-face	n.脸
-eye	n.眼睛
-singer	n.歌手
-artist	n.艺术家
-crime	n.犯罪活动
-criminal	n.罪犯
-put	v.放
-each	adj.&pron.每个,各自
-way	n.方式,路线
-describe	v.描述
-differently	adv.不同地
-another	adj.&pron另一,又一
-end	n.结尾,尽头
+tonight	今夜
+little	小的
+a little	一点,少量
+cinema	电影院
+glasses	眼镜
+later	以后
+handsome	英俊的
+actor	演员
+actress	女演员
+person	人
+nose	鼻子
+blonde	金黄色的
+mouth	嘴
+round	圆形的
+face	脸
+eye	眼睛
+singer	歌手
+artist	艺术家
+crime	犯罪活动
+criminal	罪犯
+put	放
+each	每个,各自
+way	方式,路线
+describe	描述
+differently	不同地
+another	另一,又一
+end	结尾,尽头
 in the end	最后
-real	adj..真正的;真实的
-jeans	n.牛仔裤
-Unit10	I'd like some noodles.
-noodle	n.面条
-mutton	n.羊肉
-beef	n.牛肉
-cabbage	n.卷心菜;洋白菜
-potato	n.土豆;马铃薯
-special	n.特色菜;特价品;特别的;特殊的
-would	v.(表示意愿)愿意
+real	真正的;真实的
+jeans	牛仔裤
+
+Unit10	第十单元
+noodle	面条
+mutton	羊肉
+beef	牛肉
+cabbage	卷心菜;洋白菜
+potato	土豆;马铃薯
+special	特色菜;特价品;特别的;特殊的
+would	愿意
 would like	愿意;喜欢
-yet	adv(常用于否定句或疑问句)还;仍然
-large	adj.大号的;大的
-order	n.&v.点菜;命令
+yet	常用于否定句或疑问句)还;仍然
+large	大号的;大的
+order	点菜;命令
 take one's order	点菜
-size	n.大小;尺码
-bowl	n.碗
-one (large) bowl of	一(大)碗
-tofu	n豆腐
-meat	n.(可食用的)肉
-dumpling	n.饺子
-porridge	n.粥;面糊
-onion	n.洋葱
-fish	n.鱼;鱼肉
-pancake	n.烙饼;薄饼
-world	n.世界
+size	大小;尺码
+bowl	碗
+one (large) bowl of	一碗
+tofu	腐
+meat	肉
+dumpling	饺子
+porridge	粥;面糊
+onion	洋葱
+fish	鱼;鱼肉
+pancake	烙饼;薄饼
+world	世界
 around the world	世界各地
-answer	n.答案v.回答
-different	adj.不同的
-cake	n.蛋糕
-candle	n.蜡烛
-age	n.年龄
+answer	答案;回答
+different	不同的
+cake	蛋糕
+candle	蜡烛
+age	年龄
 make a wish	许愿
-blow	v.吹
+blow	吹
 blow out	吹灭
-if	conj.如果
-will	v.会
-the UK	n.英国
-candy	n.糖果
-lucky	adj.幸运的
+if	如果
+will	会
+the UK	英国
+candy	糖果
+lucky	幸运的
 popular	受欢迎的;普遍的
 get popular	受欢迎;流行
 cut up	切碎
-idea	n.想法;主意
-bring good luck to…	给……带来好运
-Unit11	How was your school trip?
-milk	v.挤奶
-cow	n.奶牛
+idea	想法;主意
+bring good luck to	给 带来好运
+Unit11	第十一单元
+milk	挤奶
+cow	奶牛
 milk a cow	给奶牛挤奶
-horse	n.马
+horse	马
 ride a horse	骑马
-feed	v.喂养;饲养
+feed	喂养;饲养
 feed chickens	喂鸡
-farmer	n.农民;农场主
-quite	adv.相当;安全
+farmer	农民;农场主
+quite	相当;安全
 quite a lot(of…)	许多
-anything	pron.(常用于否定句或疑问句)任何东西;任何事物
-grow	v.种植;生长;发育
-farm	n.农场;务农;种田
-pick	v.采;摘
-excellent	adj.极好的;优秀的
-countryside	n.乡村;农村
+anything	任何东西;任何事物
+grow	种植;生长;发育
+farm	农场;务农;种田
+pick	采;摘
+excellent	极好的;优秀的
+countryside	乡村;农村
 in the countryside	在乡下;在农村
-yesterday	n.昨天
-flower	n.花
-worry	v.担心;担忧
-luckily	adv.幸运地;好运地
-sun	n.太阳
-museum	n.博物馆
-fire	n.火灾
+yesterday	昨天
+flower	花
+worry	担心;担忧
+luckily	幸运地;好运地
+sun	太阳
+museum	博物馆
+fire	火灾
 fire station	消防站
-painting	n.油画;绘画
-exciting	adj.使人兴奋的;令人激动的
-lovely	adj.可爱的
-expensive	adj.昂贵的
-cheap	adj.廉价的;便宜的
-slow	adj.缓慢的;迟缓的
-fast	adv&adj快地(的)
-robot	n.机器人
-guide	n.导游;向导
-gift	n.礼物;赠品
-all	in all总的说来
-everything	pron一切;所有事物
-interested	adj.感兴趣的
+painting	油画;绘画
+exciting	使人兴奋的;令人激动的
+lovely	可爱的
+expensive	昂贵的
+cheap	廉价的;便宜的
+slow	缓慢的;迟缓的
+fast	快地
+robot	机器人
+guide	导游;向导
+gift	礼物;赠品
+all in all	总的说来
+everything	所有事物
+interested	感兴趣的
 be interested in	对……感兴趣
-dark	adj.黑暗的;昏暗的
-hear(heard)	v.听到;听见
-Unit12	What did you do last weekend?
-camp	v.扎营;扎帐篷
-lake	n.湖,湖泊
-beach	n.海滩,沙滩
-badminton	n.羽毛球运动
-sheep	n.羊,绵羊
-as	adv.&pron作为,当做
-natural	pron自然的
-butterfly	n.蝴蝶
-visitor	n.游客;访问者
-tired	adj.疲倦的
-stay	v.停留
-stay up late	深夜不留
-away	adv.离开
-run away	 跑开
-mouse	n.老鼠
-baby	n.幼小的
-shout	v.呼叫,喊叫
-shout at…	冲……大声叫嚷
-woof	interg(狗叫声)汪汪
-language	n.语言
-fly	v.飞
-kite	n.风筝
-fly	a kite放风筝
-high	adj.&adv高的(地)
+dark	黑暗的;昏暗的
+hear	听到;听见
+
+Unit12	第十二单元
+camp	扎营;扎帐篷
+lake	湖;湖泊
+beach	海滩;沙滩
+badminton	羽毛球运动
+sheep	羊;绵羊
+as	&pron作为,当做
+natural	然的
+butterfly	蝴蝶
+visitor	游客;访问者
+tired	疲倦的
+stay	停留
+stay up late	深夜;不留
+away	离开
+run away	跑开
+mouse	老鼠
+baby	幼小的
+shout	呼叫;喊叫
+shout at…	冲 大声叫嚷
+woof	汪汪
+language	语言
+fiy	飞
+kite	风筝
+high	高的
 high school	中学
-ago	adv.以前
-India	n.印度
-tent	n.帐篷
-put	up搭起,举起
-moon	n.月亮
-surprise	n.&v.惊奇,惊讶
-get a surprised	吃惊
-snake	n.蛇
-scared	adj.惊慌的
-move	v.移动
-shout to…	对……大声喊叫
-start	v.开始,着手
-jump	v.跳跃
+ago	以前
+India	印度
+tent	帐篷
+put up	搭起;举起
+moon	月亮
+surprise	惊奇;惊讶
+get a surpris	吃惊
+snake	蛇
+scared	惊慌的
+move	移动
+shout to	对 大声喊叫
+start	开始;着手
+jump	跳跃
 up and down	上上下下
-wake	v.弄醒,醒
-into	prep.到……里面
-forest	n.森林
-ear	n.耳朵
+wake	弄醒;醒
+into	到 里面
+forest	森林
+ear	耳朵
